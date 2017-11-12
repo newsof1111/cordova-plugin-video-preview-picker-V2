@@ -654,6 +654,7 @@ if (videoCursor.getColumnCount() > 0)
 
         videoCursor.close();
     }
+/*
 if (imageCursor.getColumnCount() > 0)
 {
 
@@ -687,7 +688,7 @@ if (imageCursor.getColumnCount() > 0)
         }
 
         imageCursor.close();
-     } 
+     }*/ 
      
         Collections.sort(data, ImageOrVideoItem.getCompByName());
 
