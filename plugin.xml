@@ -28,7 +28,7 @@
 				<param name="android-package" value="com.sofienvppp2.VideoPicturePreviewPickerV2"/>
 			</feature>
 		</config-file>
-    <source-file src="android-support-v4.jar" target-dir="libs" />
+   <!-- <source-file src="android-support-v4.jar" target-dir="libs" /> -->
 
 		<config-file target="AndroidManifest.xml" parent="/manifest/application">
 
