@@ -32,7 +32,7 @@
 
 		<config-file target="AndroidManifest.xml" parent="/manifest/application">
 
-			<activity android:label="@string/multi_app_name" android:name="com.sofienvppp2.VideoPicturePickerActivity" android:theme="@android:style/Theme.Holo.Light">
+			<activity android:label="@string/CPVPP_multi_app_name" android:name="com.sofienvppp2.VideoPicturePickerActivity" android:theme="@android:style/Theme.Holo.Light">
             </activity>
             <activity
                 android:name="com.sofienvppp2.GettingPermissionsActivity"></activity>
